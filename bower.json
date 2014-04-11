@@ -1,0 +1,9 @@
+{
+    "name": "getElementsByClassName-polyfill",
+    "version": "0.0.1",
+    "main" : "dist/getElementsByClassName-polyfill.js",
+    "ignore": [
+        "bower.json",
+        "README.md"    
+    ]
+}
